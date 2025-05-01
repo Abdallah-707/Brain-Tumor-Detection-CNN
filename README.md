@@ -116,9 +116,9 @@ project_folder/
 
 ## 📊 Training Summary
 
-| Epochs | Train Acc | Val Acc | Test Acc |
-|--------|-----------|---------|----------|
-| 200    | ~99%      | ~97%    | ~97%     |
+| Epochs | Train Acc | Test Acc |
+|--------|-----------|----------|
+| 200    | ~77%      | ~76%     |
 
 Model performance is visualized with:
 - Training vs Validation Accuracy
