@@ -89,8 +89,8 @@ Compiled with:
 ### 🔽 Clone the repo
 
 ```bash
-git clone https://github.com/your-username/Brain-Tumor-Detection.git
-cd Brain-Tumor-Detection
+git clone https://github.com/Abdallah-707/Brain-Tumor-Detection-CNN.git
+cd Brain-Tumor-Detection-CNN
 ```
 
 ### ⚙️ Install dependencies
