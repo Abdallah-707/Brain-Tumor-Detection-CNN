@@ -2,7 +2,7 @@
 
 # 🧠 Brain Tumor Detection using CNN
 
-![Object Detection](headxrayteaser.jpeg)
+![Object Detection](headxrayteaser.jpg)
 
 > A Convolutional Neural Network (CNN) to detect brain tumors from MRI images.
 
